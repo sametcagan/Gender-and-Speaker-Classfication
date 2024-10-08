@@ -3,7 +3,7 @@
 **Part 1: Gender Classification from Audio Files**
 
 Download Data:
-Download the dev-clean corpus from the LibriSpeech dataset.
+Download the dev-clean corpus from https://www.openslr.org/12/.
 Understand the structure: directories represent individual speakers, and each directory contains audio files.
 A file in the dataset will provide information on the gender of each speaker.
 
